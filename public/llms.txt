@@ -1,0 +1,61 @@
+# Honeymoon-Vip — Generative Engine Optimization Map
+
+> A תיירות ונסיעות business.
+
+---
+
+## Pages
+
+### דף הבית
+https://honeymoon-vip-694663fe.zappy5.app
+גלו חבילות ירח דבש יוקרתיות ורומנטיות ליעדים הכי מרהיבים בעולם. התחילו את החיים המשותפים בסטייל!
+
+### חבילות ירח דבש
+https://honeymoon-vip-694663fe.zappy5.app/packages
+חבילות ירח דבש לחו״ל מותאמות אישית - מאירופה הרומנטית ועד איים טרופיים. בחרו את חופשת החלומות שלכם!
+
+### יעדים מומלצים
+https://honeymoon-vip-694663fe.zappy5.app/destinations
+גלו את היעדים הכי רומנטיים בעולם לחופשות ירח דבש - מיוון ופריז ועד המלדיביים ובאלי. בחרו את היעד המושלם!
+
+### אודות
+https://honeymoon-vip-694663fe.zappy5.app/about
+למדו על Honeymoon-Vip - מומחים ביצירת חבילות ירח דבש יוקרתיות ורומנטיות. ניסיון, מקצועיות ותשומת לב לפרטים.
+
+### צור קשר
+https://honeymoon-vip-694663fe.zappy5.app/contact
+צרו קשר עם Honeymoon-Vip לייעוץ חינם ותכנון חבילת ירח דבש מותאמת אישית. אנחנו כאן בשבילכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://honeymoon-vip-694663fe.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://honeymoon-vip-694663fe.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://honeymoon-vip-694663fe.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Honeymoon-Vip
+Honeymoon-Vip is a business in the תיירות ונסיעות industry.
+
+## Target Audience
+זוגות לקראת חתונה
+
+## Industry
+תיירות ונסיעות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://honeymoon-vip-694663fe.zappy5.app/sitemap.xml
+- **Robots.txt**: https://honeymoon-vip-694663fe.zappy5.app/robots.txt

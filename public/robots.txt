@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://honeymoon-vip-694663fe.zappy5.app/sitemap.xml
